@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.env
+.env.local
+.env.*.local
+*.log
+
+# backups
+*.backup.ts
+*.backup.tsx
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
